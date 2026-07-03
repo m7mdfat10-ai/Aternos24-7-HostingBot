@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "ragfish.aternos.host:36309",
+    "port": 36309,
     "version": "",
     "try-creative": false
   },
