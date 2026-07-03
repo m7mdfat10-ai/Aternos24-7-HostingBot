@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ragfish.aternos.host:36309",
+    "ip": "sandfish.aternos.host:36309",
     "port": 36309,
     "version": "",
     "try-creative": false
